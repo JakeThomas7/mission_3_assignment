@@ -12,3 +12,4 @@
 /Users/jacobthomas/Documents/byu_classes/winter_2025/IS413/mission_3_assignment/mission_3_assignment/obj/Debug/net8.0/mission_3_assignment.pdb
 /Users/jacobthomas/Documents/byu_classes/winter_2025/IS413/mission_3_assignment/mission_3_assignment/obj/Debug/net8.0/mission_3_assignment.genruntimeconfig.cache
 /Users/jacobthomas/Documents/byu_classes/winter_2025/IS413/mission_3_assignment/mission_3_assignment/obj/Debug/net8.0/ref/mission_3_assignment.dll
+/Users/jacobthomas/Documents/byu_classes/winter_2025/IS413/mission_3_assignment/mission_3_assignment/obj/Debug/net8.0/mission_3_assignment.sourcelink.json
